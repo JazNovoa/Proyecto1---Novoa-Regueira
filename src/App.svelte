@@ -81,9 +81,9 @@
         <img src="./images/dosperros-43.png" alt="dos perros">
     </div>
 
-    <!-- Contenedor principal ya existente -->
+    <!-- Contenedor principal -->
     <div class="container">
-        <!-- Todo tu código existente para las imágenes -->
+        <!-- Codigo para las imágenes -->
         <div class="chart">
             {#each serie_a as num_1, i}
                 <div class="item_wrapper">
