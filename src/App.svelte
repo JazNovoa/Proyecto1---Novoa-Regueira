@@ -106,11 +106,11 @@
     </div>
 
     <div class="chart-wrapper">
-        <div class="flourish-embed" data-src="story/2604732"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/story/2604732/thumbnail" width="100%" alt="visualization" /></noscript></div>
+        <div class="flourish-embed"><iframe src='https://flo.uri.sh/story/2604732/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/story/2604732/?utm_source=embed&utm_campaign=story/2604732' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div></div>
         </div>
     
     <div class="chart-wrapper2">
-        <div class="flourish-embed flourish-chart" data-src="visualisation/19394019"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/19394019/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+        <div><iframe src='https://flo.uri.sh/visualisation/19394019/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/19394019/?utm_source=embed&utm_campaign=visualisation/19394019' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div></div>
     </div>
 
     <div class="final">
